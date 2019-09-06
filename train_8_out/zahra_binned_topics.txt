@@ -1,0 +1,8 @@
+topic000, help, years, things, world, work, hard, change, time, good, going, goal, 2015, goals, problems, happen, helping, achieve, believe, places, long
+topic001, kenya, better, project, villages, sauri, like, life, millennium, help, village, know, health, helped, place, millenium, care, states, important, changed, united
+topic002, poverty, fight, think, author, achievable, lifetime, winning, convinced, convince, proverty, article, possible, hannah, life, 'winning, time, said, sachs, shows, easy
+topic003, food, fertilizer, crops, water, farmers, needed, seeds, dying, grow, tools, hunger, family, stop, supply, crisis, problem, irrigation, families, afford, maintain
+topic004, money, need, thing, live, alot, donate, poor, little, afford, clothes, treatment, patients, right, dollar, reason, good, needs, stuff, dont, cost
+topic005, school, kids, supplies, children, lunch, fees, schools, afford, education, adults, students, learn, parents, energy, went, like, books, 2004, meal, midday
+topic006, people, sauri, nets, malaria, sick, progress, disease, years, 2008, mosquitoes, sleeping, 2004, amazing, site, getting, 20,000, example, away, poor, prevent
+topic007, hospital, water, medicine, electricity, free, africa, hospitals, diseases, common, charge, running, changes, yala, example, connected, sub-district, generator, medicines, doctors, doctor
